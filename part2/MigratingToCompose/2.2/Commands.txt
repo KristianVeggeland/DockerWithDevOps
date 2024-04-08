@@ -1,0 +1,4 @@
+docker compose up -d
+[+] Running 1/2
+ - Network 22_default            Created                                                                           0.3s
+ ✔ Container simple-web-service  Started
